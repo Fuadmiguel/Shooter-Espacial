@@ -1,0 +1,56 @@
+# Unity generated files and folders to ignore
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Build files
+[Bb]uild/
+[Bb]uilds/
+[Bb]in/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# User-specific settings
+UserSettings/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# Crash reports
+sysinfo.txt
+
+# Unity auto-generated files
+*.apk
+*.idb
+*.log
+
+# Audio streaming assets
+StreamingAssets/
+
+# Addressable Assets Data
+[Aa]ssets/[Aa]ddressableAssetsData/
+
+# Local cache files
+.vscode/
+.idea/
+*.iml
+*.log
+
+# Package caches
+# These should be ignored unless you want to commit your lock file
+Packages/manifest.json
+Packages/packages-lock.json
