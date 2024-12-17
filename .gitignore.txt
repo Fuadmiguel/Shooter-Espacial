@@ -29,6 +29,11 @@ UserSettings/
 *.pdb
 *.opendb
 *.VC.db
+.vs/
+Library/
+obj/
+Logs/
+UserSettings/
 
 # Crash reports
 sysinfo.txt
